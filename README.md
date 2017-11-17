@@ -1,2 +1,2 @@
 # ZwirTools
-.NET tools and extensions
+.NET utils and extensions
